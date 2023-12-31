@@ -1,0 +1,5 @@
+[tool.poetry]
+name = "Pardesicat Practice set"
+version = "0"
+description = "Self made Practice set to learn python"
+authors = ["Pardesi_caat <contact@pardesicat.xyz>"]
