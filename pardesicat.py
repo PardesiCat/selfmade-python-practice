@@ -30,6 +30,6 @@ platform = platform.architecture()
 
 print (f"{name} Your Using {platform} Architect of Cpu" )
 
-time.sleep(2)
+time.sleep(3)
 
-sys.exit
+sys.exit()
