@@ -1,5 +1,16 @@
-[tool.poetry]
+[Project]
 name = "Pardesicat Practice set"
 version = "0"
 description = "Self made Practice set to learn python"
-authors = ["Pardesi_caat <contact@pardesicat.xyz>"]
+requires-python = ">= 3.12"
+authors = [
+           {name = "Pardesi_Cat", email = "contact@pardesicat.xyz"}
+]
+
+maintainers = [
+            {name = "Pardesi_Cat" , email = "contact@pardesicat.xyz"}
+]
+[project.urls]
+Homepage = "https://pardesicat.xyz"
+Repository = "https://git.pardesicat.xyz/pardesicat/selfmade-python-practice.git"
+
